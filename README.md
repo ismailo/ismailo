@@ -1,8 +1,5 @@
 ### Hi there! Welcome to my GitHub Profile! ✨ 👋
 
-
-**ismailo/ismailo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I always loved to learn the code but college and career took to a different path. I earned BS in Optical Engineering, MS in Information Systems from University of Arizona. Most recently I earned my MBA at University of Illinois. 
