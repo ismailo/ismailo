@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my GitHub Profile! ✨ 👋
 
-<!--
+
 **ismailo/ismailo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about data & analytics as I have been teaching business analytics for the past 4 years at Udacity.com 
 - 📫 How to reach me: https://www.tiktok.com/@break.into.tech
 - ⚡ Fun fact: I eat, walk and talk fast. 
+
 --> Stay tune, more to come!!!
